@@ -1,0 +1,9 @@
+{
+    "username": "juancamiloau${random}",
+    "firstName": "Juan",
+    "lastName": "Alvarez",
+    "email": "juan${random}@yopmail.com",
+    "password": "123456789",
+    "phone": "1234567890",
+    "userStatus": 1
+}

@@ -1,0 +1,63 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyo
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+*.so
+*.log
+
+# Virtual Environments
+venv/
+.env/
+.Python
+env/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Editor/IDE Specific
+.vscode/
+.idea/
+*.swp
+*~
+
+# MacOS
+.DS_Store
+
+# Behave output
+reports/
+*.out
+*.xml
+
+# Coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# pytest
+.pytest_cache/
+.test_report/
+
+# Logs
+*.log
+logs/
+debug.log
+
+# Others
+*.tmp
+*.bak
+*.backup
