@@ -1,5 +1,6 @@
 import requests
 from templates.body_templates import *
+from behave import *∫
 
 @Given(u'I have created a new user')
 @when(u'I create the user')
